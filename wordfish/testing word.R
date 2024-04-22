@@ -162,7 +162,7 @@ ggplot(results_df, aes(y = party, x = theta)) +
   theme_minimal() +
   theme(axis.title.y = element_blank())
 
-# Assuming 'wf' is your Wordfish model object
+
 save(wf, file = "wordfish_model_2564.RData")
 
 # Apply LDA on the filtered matrix
