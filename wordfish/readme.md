@@ -1,1 +1,1 @@
-
+This is only the code for year 2564(2021). Each selected year must be loaded seperatly and adjusting code for manually assign position (lower house or upper house) due to some speech wasnt correctly solved by our speech split code.
