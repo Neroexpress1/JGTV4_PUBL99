@@ -1,4 +1,6 @@
 The step
-1. speech split
-2. google colab(segementation/token)
-3. wordfish
+
+1. web scraping
+2. speech split
+3. google colab(segementation/token)
+4. wordfish
