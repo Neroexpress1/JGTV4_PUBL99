@@ -6,13 +6,13 @@ load_and_rename <- function(file_path, new_var_name) {
   rm(wf)                      
 }
 
-file_paths <- c("C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2548.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2551.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2553.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2555.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2562.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2563.RData",
-                "C:/Users/khuna/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2564.RData")
+file_paths <- c("C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2548.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2551.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2553.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2555.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2562.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2563.RData",
+                "C:/Users/xxxxx/OneDrive/Desktop/QTA assisgn/word segment/wordfish_model/wordfish_model_2564.RData")
 
 new_names <- c("wf_2005", "wf_2008", "wf_2010", "wf_2012", "wf_2019", "wf_2021", "wf_2023")
 
